@@ -1,0 +1,11 @@
+C:\VS\FormatDriveApp\FormatSystemApp\FormatSystemApp\obj\Debug\FormatSystemApp.csproj.CoreCompileInputs.cache
+C:\VS\FormatDriveApp\FormatSystemApp\FormatSystemApp\bin\Debug\FormatSystemApp.exe.config
+C:\VS\FormatDriveApp\FormatSystemApp\FormatSystemApp\bin\Debug\FormatSystemApp.exe
+C:\VS\FormatDriveApp\FormatSystemApp\FormatSystemApp\bin\Debug\FormatSystemApp.pdb
+C:\VS\FormatDriveApp\FormatSystemApp\FormatSystemApp\obj\Debug\FormatSystemApp.exe
+C:\VS\FormatDriveApp\FormatSystemApp\FormatSystemApp\obj\Debug\FormatSystemApp.pdb
+C:\VS\FormatDriveApp\FormatSystemApp\FormatSystemApp\bin\Debug\FormatSystemApp.exe.manifest
+C:\VS\FormatDriveApp\FormatSystemApp\FormatSystemApp\bin\Debug\FormatSystemApp.application
+C:\VS\FormatDriveApp\FormatSystemApp\FormatSystemApp\obj\Debug\FormatSystemApp.csprojResolveAssemblyReference.cache
+C:\VS\FormatDriveApp\FormatSystemApp\FormatSystemApp\obj\Debug\FormatSystemApp.exe.manifest
+C:\VS\FormatDriveApp\FormatSystemApp\FormatSystemApp\obj\Debug\FormatSystemApp.application
