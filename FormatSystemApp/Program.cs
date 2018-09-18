@@ -132,6 +132,10 @@ namespace FormatSystemApp
                 }
             }
 
+            public static void TestMethod()
+            {
+
+            }
         }
     }
 }
